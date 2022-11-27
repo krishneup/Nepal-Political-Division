@@ -1,0 +1,26 @@
+{
+    "states":[
+       {
+          "state":"Sudurpaschim",
+          "id":"Sudurpaschim",
+          "english_name":"Sudurpaschim",
+          "devanagari_name":"सुदूरपश्चिम",
+          "districts":[
+             {
+                "name":"Achham",
+                "id":"Achham",
+                "english_name":"Achham",
+                "devanagari_name":"अछाम",
+                "localbodies":[
+                   {
+                      "name":"Mangalsen",
+                      "type":"Municipality",
+                      "english_name":"Mangalsen",
+                      "devanagari_name":"मंगलसेन"
+                   }
+                ]
+             }
+          ]
+       }
+    ]
+ }
