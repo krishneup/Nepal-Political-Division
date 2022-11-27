@@ -1,0 +1,26 @@
+{
+    "states":[
+       {
+          "state":"Pradesh 1",
+          "id":"state-1",
+          "english_name":"Pradesh 1",
+          "devanagari_name":"Nepali",
+          "districts":[
+             {
+                "name":"Ilam",
+                "id":"district-2",
+                "english_name":"Ilam",
+                "devanagari_name":"Ilam",
+                "localbodies":[
+                   {
+                      "name":"Godak",
+                      "type":"municipality",
+                      "english_name":"Godak",
+                      "devanagari_name":"Godak"
+                   }
+                ]
+             }
+          ]
+       }
+    ]
+ }
