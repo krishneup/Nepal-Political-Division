@@ -1,0 +1,26 @@
+{
+    "states":[
+       {
+          "state":"Pradesh 3",
+          "id":"state-3",
+          "english_name":"BAGMATI",
+          "devanagari_name":"बागमती प्रदेश",
+          "districts":[
+             {
+                "name":"kathmandu",
+                "id":"district-1",
+                "english_name":"KATHMANDU",
+                "devanagari_name":"काठमाडौँ ",
+                "localbodies":[
+                   {
+                      "name":"Kathmandu Metropolitan City",
+                      "type":"municipality ",
+                      "english_name":"Kathmandu Metropolitan City",
+                      "devanagari_name":"काठमाडौं महानगरपालिका"
+                   }
+                ]
+             }
+          ]
+       }
+    ]
+ } 
