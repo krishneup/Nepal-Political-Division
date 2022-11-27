@@ -1,0 +1,26 @@
+{
+    "states":[
+       {
+          "state":"Pradesh 7",
+          "id":"state-1",
+          "english_name":"Pradesh 7",
+          "devanagari_name":"Nepali",
+          "districts":[
+             {
+                "name":"Taplejung",
+                "id":"district-1",
+                "english_name":"Taplejung",
+                "devanagari_name":"Type in unicode",
+                "localbodies":[
+                   {
+                      "name":"Name of municipality or gaupalika",
+                      "type":"municipality or vdc",
+                      "english_name":"aaaaa",
+                      "devanagari_name":""
+                   }
+                ]
+             }
+          ]
+       }
+    ]
+ }
