@@ -1,0 +1,26 @@
+{
+    "states":[
+       {
+          "state":"Pradesh 3",
+          "id":"state-3",
+          "english_name":"Bagmati",
+          "devanagari_name":"बाग्मती",
+          "districts":[
+             {
+                "name":"Lalitpur",
+                "id":"district-2",
+                "english_name":"Lalitpur",
+                "devanagari_name":"ललितपुर",
+                "localbodies":[
+                   {
+                      "name":"Lalitpur metropolitian city",
+                      "type":"metropolitian",
+                      "english_name":"Lalitpur metropolitian city",
+                      "devanagari_name":"ललितपुर महानगरपालिका"
+                   }
+                ]
+             }
+          ]
+       }
+    ]
+ }
