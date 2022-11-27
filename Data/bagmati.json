@@ -1,0 +1,26 @@
+{
+    "states":[
+       {
+          "state":"Pradesh 2",
+          "id":"state-2",
+          "english_name":"Bagmati Pradesh",
+          "devanagari_name":"बाग्मती प्रदेश​",
+          "districts":[
+             {
+                "name":"Nuwakot",
+                "id":"district-4",
+                "english_name":"Nuwakot",
+                "devanagari_name":"नुवाकोट​",
+                "localbodies":[
+                   {
+                      "name":"likhu",
+                      "type":"municipality",
+                      "english_name":"Likhu",
+                      "devanagari_name":"लिखु"
+                   }
+                ]
+             }
+          ]
+       }
+    ]
+ }
